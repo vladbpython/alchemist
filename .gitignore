@@ -1,0 +1,20 @@
+# Default ignored files/folders
+**/debug
+**/.DS_Store
+**/target
+**/.idea*
+**/.vscode*
+**/workspace.xml
+**/*.code-workspace
+**/*.rs.bk
+**/workspace.code-workspace
+**/shelf/
+# Editor-based HTTP Client requests
+**/httpRequests/
+# Datasource local storage ignored files
+**/dataSources/
+**/dataSources.local.xml
+**/logs*
+**/*.log*
+
+Cargo.lock
