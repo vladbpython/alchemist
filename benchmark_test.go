@@ -1,12 +1,13 @@
 package alchemist_test
 
 import (
-	"alchemist"
 	"fmt"
 	"strconv"
 	"sync"
 	"sync/atomic"
 	"testing"
+
+	"github.com/vladbpython/alchemist"
 )
 
 type KeyModel struct {
